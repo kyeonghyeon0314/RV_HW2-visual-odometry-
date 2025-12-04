@@ -1,0 +1,15 @@
+Visual Odometry 수행해보기
+
+Lec12_vo_epipolar.py 참고
+
+ 
+
+보고서 5장 이내
+
+ 
+
+Dataset 수집 방법 및 내용
+Feature 추출기(Cv2.goodFeatureToTrack, cv2.findEssentialMat) 파라미터 변경해보기 또는 아예 다른 Feature 사용
+수행 결과 화면 전체 캡쳐
+결과 분석
+실제 움직인 경로와 Visual Odometry로 예측된 경로와의 비교
